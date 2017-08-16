@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bar",
+  "version": "1.0.0",
+  "description": "WhatsApp web client - in the toolbar.",
+  "main": "index.js",
+  "author": "Christopher McMorran",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.5",
+    "menubar": "^5.2.3"
+  },
+  "bin": {
+    "whatsapp": "./index.js"
+  }
+}
